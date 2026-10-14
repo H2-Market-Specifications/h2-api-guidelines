@@ -1,5 +1,9 @@
 # H2 API Guidelines v0.9
 
+## H₂-Marktkommunikation: API-Richtlinien, JWS und WebSocket (Deutsch)
+
+Dieses Repository enthält die technischen Richtlinien für APIs in der Wasserstoffmarktkommunikation (H₂) in Deutschland: die H₂ API Guideline, die JWS-Spezifikation zur Inhaltsdatensicherung und Signatur sowie die WebSocket-Schnittstelle zum Verzeichnisdienst. Die Veröffentlichung umfasst PDF-Dokumente und maschinenlesbare JSON-/YAML-Schemas für Marktteilnehmer, Softwareanbieter und Entwickler. Veröffentlicht ist Version 0.9.
+
 API guidelines and technical specifications for hydrogen market communication, intended for market participants, software providers and developers.
 
 ## Documents
